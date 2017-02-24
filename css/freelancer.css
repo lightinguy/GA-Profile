@@ -503,3 +503,7 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+
+.col-lg-4col-lg-offset-2 {
+  text-align: center;
+}
