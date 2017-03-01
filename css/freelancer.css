@@ -289,7 +289,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #0dcae5;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
